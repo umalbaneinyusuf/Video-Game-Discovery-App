@@ -7,7 +7,7 @@ Built with **React** and **Chakra UI**, using an external API to fetch game data
 
 ## Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-netlify-brightgreen?logo=netlify)](https://magnificent-bubblegum-13f3ef.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-netlify-brightgreen?logo=netlify)](https://video-game-discovery-app.netlify.app/)
 
 ---
 
